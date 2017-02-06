@@ -12,6 +12,7 @@
 		11C973031E4382190079B774 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11C973011E4382190079B774 /* Main.storyboard */; };
 		11C973051E4382190079B774 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11C973041E4382190079B774 /* Assets.xcassets */; };
 		11C973081E4382190079B774 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11C973061E4382190079B774 /* LaunchScreen.storyboard */; };
+		11C973101E439CF60079B774 /* Color-Slider.png in Resources */ = {isa = PBXBuildFile; fileRef = 11C9730F1E439CF60079B774 /* Color-Slider.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		11C973041E4382190079B774 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11C973071E4382190079B774 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		11C973091E4382190079B774 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11C9730F1E439CF60079B774 /* Color-Slider.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Color-Slider.png"; path = "../../../../../Downloads/Color-Slider.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				11C972FF1E4382190079B774 /* ViewController.swift */,
 				11C973011E4382190079B774 /* Main.storyboard */,
 				11C973041E4382190079B774 /* Assets.xcassets */,
+				11C9730F1E439CF60079B774 /* Color-Slider.png */,
 				11C973061E4382190079B774 /* LaunchScreen.storyboard */,
 				11C973091E4382190079B774 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				11C973081E4382190079B774 /* LaunchScreen.storyboard in Resources */,
 				11C973051E4382190079B774 /* Assets.xcassets in Resources */,
+				11C973101E439CF60079B774 /* Color-Slider.png in Resources */,
 				11C973031E4382190079B774 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
